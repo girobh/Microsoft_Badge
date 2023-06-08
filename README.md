@@ -1,3 +1,3 @@
 Microsoft Certifications
 
-* Microsoft Certified: Azure Fundamentals
+* Microsoft Certified: AZ-900: Microsoft Azure Fundamentals
